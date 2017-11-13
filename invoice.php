@@ -106,7 +106,7 @@ $pdf->Cell(190,40,"Water is Life! Use it wisely!",0,0,'C');
 $filename="invoicee.pdf";
 $pdf->Output($filename,'F');
 
-   echo "<script type='text/javascript'> window.location.href='invoicee.pdf';</script>";
+echo "<script type='text/javascript'> window.location.href='invoice.pdf';</script>";
 
 ?>
 

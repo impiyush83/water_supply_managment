@@ -1,5 +1,5 @@
 <?php
-session_start();
+//session_start();
 include_once("Config.php");
 $cursor=$pro->find();
 $total=0;
@@ -36,7 +36,9 @@ $res = $pro->findOne(array('Customer.U_name' => $_SESSION['U_name']));
 			
 			<script src="js/easyResponsiveTabs.js" type="text/javascript"></script>
 					<script type="text/javascript">
-						$(document).ready(function () {
+						$(document).ready(function () 
+
+							{
 							$('#horizontalTab').easyResponsiveTabs({
 								type: 'default', //Types: default, vertical, accordion           
 								width: 'auto', //auto or any width like 600px
@@ -58,6 +60,7 @@ $res = $pro->findOne(array('Customer.U_name' => $_SESSION['U_name']));
 
    								foreach ( $cursor as $value ){
 									if($_SESSION[$value['Product']['pro_id']]['0']==1)
+
    								
    					{	
    				?>
@@ -79,7 +82,9 @@ $res = $pro->findOne(array('Customer.U_name' => $_SESSION['U_name']));
 				  </div><br>
 			 <?php
 			 $i++;
-			}}
+			}
+
+		}
 		}
 			?>
 			<hr>
@@ -148,4 +153,5 @@ function showadr() {
 
 <?php
 }
+
 ?>

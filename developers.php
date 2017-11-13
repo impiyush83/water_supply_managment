@@ -151,16 +151,16 @@ blockquote p {
     <br>
     
             <div class="row" style="text-align:center;"> 
-          <div class="col s6 text-center">
-                   <img class="hvr-pulse-grow" src="images/hans.jpg"  height="400px">
-                     <br>           <br>
+                    <div class="col s6 text-center">
+                   <img class="hvr-pulse-grow" src="images/piyu.jpg" height="400px">  <br>
     <br>
     <br>
-                            <h3 style="color:#ffffff ;">Hansraj Mete</h3>
-                           <p class="intro" style="color:#ffffff ;">hansrajmete@gmail.com</p>                           
+                            <h3 style="color:#ffffff ;">Piyush Nalawade</h3>
+                           <p class="intro" style="color:#ffffff ;">nalawadepiyush@gmail.com</p>                           
         </div>
-        <br>
-        <br>
+        </br>
+        </br>
+          
         <div class="col s6 text-center">
                    <img class="hvr-pulse-grow" src="images/bablu.jpg" class="img-circle" height="500px">
                    <br>  <br>
@@ -183,13 +183,16 @@ blockquote p {
         </div>
         <br>
         <br>
-        <div class="col s6 text-center">
-                   <img class="hvr-pulse-grow" src="images/piyu.jpg" height="400px">  <br>
+<div class="col s6 text-center">
+                   <img class="hvr-pulse-grow" src="images/hans.jpg"  height="400px">
+                     <br>           <br>
     <br>
     <br>
-                            <h3 style="color:#ffffff ;">Piyush Nalawade</h3>
-                           <p class="intro" style="color:#ffffff ;">nalawadepiyush@gmail.com</p>                           
+                            <h3 style="color:#ffffff ;">Hansraj Mete</h3>
+                           <p class="intro" style="color:#ffffff ;">hansrajmete@gmail.com</p>                           
         </div>
+        <br>
+        <br>
       </div>
 
 

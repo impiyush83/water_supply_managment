@@ -1,6 +1,6 @@
 <?php
 
-session_start();
+//session_start();
 
 include_once("Config.php");
 $res = $pro->findOne(array('Product.pro_id' => $_POST['pro_id']));

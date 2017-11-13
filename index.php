@@ -25,64 +25,7 @@ include 'header.php';
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-      ="overlay">
-           <h2>Water Tankers</h2>
-
-        </div></a>
-    </div>
-</div>
-			
-
-	<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12" style="float:right ; position :relative; padding-right:500px">
-    <div class="hovereffect">
-       <a href="jarcan.php"> <img class="img-responsive" src="images/4.jpg" alt="">
-        <div class="overlay">
-           <h2>Jars and Cans</h2>
-
-        </div></a>
-    </div>
-</div>
-<div class="clearfix"> </div>
-
-</div>
-
-		
-		<div class="arriv-top">
-			<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12" style="float:left ; position :relative;">
-    <div class="hovereffect">
-       <a href="purifiers.php"> <img class="img-responsive" src="images/5.jpg" alt="">
-        <div class="overlay">
-           <h2>Purifiers</h2>
-
-        </div></a>
-    </div>
-</div>
-			<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12" style="float:right ; position :relative; padding-right:500px">
-    <div class="hovereffect">
-       <a href="distiller.php"> <img class="img-responsive" src="images/dist1.jpg" alt="">
-        <div class="overlay">
-           <h2>Distillers</h2>
-
-        </div></a>
-    </div>
-</div>
-
-			<div class="clearfix"> </div>
-</div>
-
-
-
-	</div>
-</div>
-
-
-
-<?php
-include 'footer.php'
-?>
-
-</body>
-</html>  <a href="bottles.php"><img src="images/2.jpg" alt="Chania" width="60" height="345"></a>
+        <a href="bottles.php"><img src="images/2.jpg" alt="Chania" width="60" height="345"></a>
       </div>
 
       <div class="item">

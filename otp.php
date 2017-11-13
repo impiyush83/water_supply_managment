@@ -20,9 +20,9 @@ $ser="http://site24.way2sms.com/";
 $ckfile = tempnam ("/tmp", "CURLCOOKIE");
 $login=$ser."Login1.action";
 // * Reciving Username of Way2sms A/c from Html form //
-$uid="7020073329";
+$uid="9423331650";
 // * Reciving Password of Way2sms A/c from Html form //
-$pwd="Q2563H";
+$pwd="piyush";
 // * To whome the message send to //
 $to=$_POST['M_Number'];
 // * Message to be sended //
